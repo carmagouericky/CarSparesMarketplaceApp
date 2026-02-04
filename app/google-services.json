@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673578847599",
+    "firebase_url": "https://car-spare-parts-marketplace-default-rtdb.firebaseio.com",
+    "project_id": "car-spare-parts-marketplace",
+    "storage_bucket": "car-spare-parts-marketplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673578847599:android:e001f8ee76f05a2d58ac9a",
+        "android_client_info": {
+          "package_name": "com.example.carsparesmarketplaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673578847599-bqjmuk4p0d65uq75r18m6odfp7h9qi0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carsparesmarketplaceapp",
+            "certificate_hash": "c61ba6123a6177e72d2c35f244d6047d5749ed3c"
+          }
+        },
+        {
+          "client_id": "673578847599-fb1hdjaichjg2n291lfhdepnsnnjgoca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Krxq6oXRgsB-tQAq79uf4CmIacxD2sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673578847599-fb1hdjaichjg2n291lfhdepnsnnjgoca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
